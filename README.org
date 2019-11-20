@@ -4,7 +4,7 @@ Inspired by jetzt and spritz, was designed to be used as a Greasemonkey (and pos
 [[./screenshots/screenshot.png]]
 * Some more info
 - The code was made in a modular way, making it simple to edit. 
-- You can see a live demo of it here: 
+- You can see a live demo of it here: [[https://stoicindividual.github.io/speed-reader/]]
 * TODO [0/3]
 - [ ] add pause feature
 - [ ] make reader work with hyphens
