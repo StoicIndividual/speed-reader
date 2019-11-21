@@ -1,7 +1,7 @@
 #+TITLE: Speed-Reader
 Inspired by jetzt and spritz, was designed to be used as a Greasemonkey (and possibly alternatives) extension.
 * Screenshot
-[[./screenshots/screenshot.png]]
+[[./screenshots/screenshotOfReader.png]]
 * Some more info
 - The code was made in a modular way, making it simple to edit. 
 - You can see a live demo of it here: [[https://stoicindividual.github.io/speed-reader/]]
